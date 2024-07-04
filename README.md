@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannafes167
 - 👀 I’m interested in Research Analyst
-- 🌱 I’m currently learning python, sql, tableu
+- 🌱 I’m currently learning python, sql, tableau
 - 💞️ I’m looking to collaborate on my linkedin Hanna Febriani Sutarman
 - 📫 How to reach me in my email hannafebriani675@gmail.com
 - 😄 Pronouns: ...
