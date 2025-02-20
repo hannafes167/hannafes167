@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @hannafes167
-- 👀 I’m interested in Research Analyst
-- 🌱 I’m currently learning python, sql, tableau
-- 💞️ I’m looking to collaborate on my linkedin Hanna Febriani Sutarman
-- 📫 How to reach me in my email hannafebriani675@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Halo semua! 
 
-<!---
-hannafes167/hannafes167 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Perkenalkan nama saya **Hanna Febriani Sutarman**.<br>
+
+Saya seorang **Student Laskar AI** di [Dicoding](https://www.dicoding.com/).<br>
+
+Saya sedang mempelajari AI, Machine Learning, Data Analysis dan Data Scientist<br>
+
+Saya berasal dari jurusan Fisika.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hanna-febriani-sutarman/)ku ya.
